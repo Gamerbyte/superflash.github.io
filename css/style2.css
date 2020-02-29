@@ -1,0 +1,7 @@
+div
+{
+	height: 800px;
+	width: 900px;
+	background: url(2.jpg);
+	overflow: auto;
+}
